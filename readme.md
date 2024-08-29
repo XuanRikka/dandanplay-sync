@@ -2,8 +2,6 @@
 
 ## 基于弹弹play的播放进度同步
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-
 ### 功能
 - 以服务端播放进度为标准同步客户端播放进度
 - 一个服务端可以链接多个客户端
@@ -40,7 +38,7 @@ pip install -r requirements.txt
 
 ## 许可证
 
-本程序遵循 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
+本程序遵循 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
 
 ## 贡献
 
