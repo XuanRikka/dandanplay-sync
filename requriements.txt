@@ -1,0 +1,5 @@
+httpx
+httpx_ws
+fastapi
+uvicorn
+pyyaml
